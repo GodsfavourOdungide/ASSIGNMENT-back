@@ -1,6 +1,6 @@
 
 
-// Q1
+// Q1.
 let name = "Favour";
 let scores = [78, 65, 80, 72, 69]; // 5 subjects
 
